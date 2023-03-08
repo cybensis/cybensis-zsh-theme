@@ -8,9 +8,9 @@ An oh-my-zsh theme based on the standard af-magic theme but with a pastel colour
 &nbsp;
 
 ## How to install
-1. Install zsh with your OS's package manager
+1. Install zsh and the required plugins with your OS's package manager
 ```sh
-sudo apt-get install zsh
+sudo apt-get install zsh zsh-autosuggestions zsh-syntax-highlighting
 ```
 2. Install oh-my-zsh
 ```sh
